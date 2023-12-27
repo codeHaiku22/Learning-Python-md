@@ -1,3 +1,4 @@
+## Tuple Methods
 List of built-in tuple methods.  
 
 Method | Description

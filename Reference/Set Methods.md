@@ -1,3 +1,4 @@
+## Set Methods
 List of built-in set methods.  
 
 Method | Description

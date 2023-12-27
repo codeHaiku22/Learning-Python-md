@@ -1,3 +1,4 @@
+## List Methods
 List of built-in list methods.  
 
 >***Note:*** Remember Python does not support arrays.  Lists can be used in-lieu of arrays.

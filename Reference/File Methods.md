@@ -1,3 +1,4 @@
+## File Methods
 List of built-in file methods.  
 
 Method | Description

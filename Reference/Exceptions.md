@@ -1,3 +1,4 @@
+## Exceptions
 List of of built-in exceptions that can be raised.
 
 Method | Description

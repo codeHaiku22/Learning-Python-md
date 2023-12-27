@@ -1,3 +1,4 @@
+## Dictionary Methods
 List of built-in dictionary methods.  
 
 Method | Description

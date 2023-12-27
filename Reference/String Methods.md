@@ -1,3 +1,4 @@
+## String Methods
 List of built-in string methods.  
 
 >***Note:*** Remember that strings are immutable.  All string methods return new values; they do not change the original string.

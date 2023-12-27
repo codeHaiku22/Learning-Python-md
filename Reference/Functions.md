@@ -1,3 +1,4 @@
+## Functions
 List of built-in functions
 
 Function | Category | Description
